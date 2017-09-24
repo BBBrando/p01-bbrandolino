@@ -119,7 +119,6 @@ cin>>toPlay;
     }
 
 } while(toPlay == 'Y');
-  cout<<randomNumber<<endl;
 
 
 
